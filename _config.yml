@@ -43,7 +43,7 @@ widget_custom:
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
+  color: Cobalt Blue
   fancybox: false
 
 # ===========================================
@@ -53,12 +53,12 @@ theme:
 # Baidu Analytics
 baidu_analytics:
 # Google Analytics
-google_analytics:
+google_analytics: true
 
 # Duoshuo
 duoshuo_shortname:
 # Disqus
-disqus_shortname:
+disqus_shortname: true
 
 
 # ===========================================
